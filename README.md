@@ -44,7 +44,7 @@ Built an interactive Power BI dashboard visualizing the query results — revenu
 - Half of all discount-using customers still spent above the dataset average purchase amount — suggesting discounts are being used opportunistically by higher-spending customers, not just as an incentive for price-sensitive ones
 
 Dashboard Preview
-
+https://github.com/HIRI7/Customer-Buying-Behaviour/blob/89af7c0645030d29ffa8f8add5d0d4b85e12a16e/Customer%20buying%20behaviour%20dashboard.png
 
  Notes
 This project followed a guided YouTube tutorial for the core end-to-end structure (Python → SQL → Power BI), extended with two additional dashboard visuals built independently.
