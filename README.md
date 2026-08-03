@@ -54,3 +54,6 @@ This project followed a guided YouTube tutorial for the core end-to-end structur
 - `sql/customer_behavior_queries.sql` — business analysis queries
 - `Practice_project_power_bi.pbix` — Power BI dashboard file
 - `customer_shopping_behavior.csv` — source dataset
+
+  Acknowledgement-
+  Project layout and dataset inspired by Amlan Mohanty tutorials.
